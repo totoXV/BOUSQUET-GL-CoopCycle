@@ -1,0 +1,23 @@
+{
+  "coopCycleApp": {
+    "membre": {
+      "home": {
+        "title": "Membres",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Genera un nuovo Membre",
+        "createOrEditLabel": "Genera o modifica un Membre",
+        "notFound": "No Membres found"
+      },
+      "created": "&Egrave; stato generato un nuovo Membre con identificatore {{ param }}",
+      "updated": "&Egrave; stato aggiornato Membre identificato da {{ param }}",
+      "deleted": "&Egrave; stato eliminato Membre con identificatore {{ param }}",
+      "delete": {
+        "question": "Sei sicuro di volere eliminare Membre {{ id }}?"
+      },
+      "detail": {
+        "title": "Membre"
+      },
+      "id": "ID"
+    }
+  }
+}

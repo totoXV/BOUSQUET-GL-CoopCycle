@@ -1,0 +1,23 @@
+{
+  "coopCycleApp": {
+    "livreur": {
+      "home": {
+        "title": "Livreurs",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Livreur",
+        "createOrEditLabel": "Create or edit a Livreur",
+        "notFound": "No Livreurs found"
+      },
+      "created": "A new Livreur is created with identifier {{ param }}",
+      "updated": "A Livreur is updated with identifier {{ param }}",
+      "deleted": "A Livreur is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Livreur {{ id }}?"
+      },
+      "detail": {
+        "title": "Livreur"
+      },
+      "id": "ID"
+    }
+  }
+}

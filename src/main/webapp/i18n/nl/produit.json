@@ -1,0 +1,23 @@
+{
+  "coopCycleApp": {
+    "produit": {
+      "home": {
+        "title": "Produits",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Maak een nieuwe Produit",
+        "createOrEditLabel": "Maak of wijzig een Produit",
+        "notFound": "No Produits found"
+      },
+      "created": "A new Produit is created with identifier {{ param }}",
+      "updated": "A Produit is updated with identifier {{ param }}",
+      "deleted": "A Produit is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Bent u zeker dat u Produit {{ id }} wilt verwijderen?"
+      },
+      "detail": {
+        "title": "Produit"
+      },
+      "id": "ID"
+    }
+  }
+}

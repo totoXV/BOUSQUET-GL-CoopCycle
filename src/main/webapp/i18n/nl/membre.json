@@ -1,0 +1,23 @@
+{
+  "coopCycleApp": {
+    "membre": {
+      "home": {
+        "title": "Membres",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Maak een nieuwe Membre",
+        "createOrEditLabel": "Maak of wijzig een Membre",
+        "notFound": "No Membres found"
+      },
+      "created": "A new Membre is created with identifier {{ param }}",
+      "updated": "A Membre is updated with identifier {{ param }}",
+      "deleted": "A Membre is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Bent u zeker dat u Membre {{ id }} wilt verwijderen?"
+      },
+      "detail": {
+        "title": "Membre"
+      },
+      "id": "ID"
+    }
+  }
+}
